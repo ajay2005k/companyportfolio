@@ -1,0 +1,6 @@
+# Logo Placeholder
+
+This file represents the logo.png placeholder. 
+In a real project, replace this with your actual logo image (PNG format, recommended size: 200x60px).
+
+The logo should be a white version suitable for the black background theme.

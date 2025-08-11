@@ -1,0 +1,6 @@
+# OG Image Placeholder
+
+This file represents the og-image.jpg placeholder.
+In a real project, replace this with your actual OpenGraph image (JPG format, size: 1200x630px).
+
+The OG image should represent your brand and will be displayed when your site is shared on social media.
