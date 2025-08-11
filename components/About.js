@@ -24,7 +24,7 @@ export default function About() {
               to create digital experiences that truly matter.
             </p>
             <p className="text-lg text-neutral-300 mb-8 leading-relaxed">
-              Whether you're a startup looking to establish your digital presence or an 
+              Whether you&apos;re a startup looking to establish your digital presence or an 
               enterprise seeking to innovate, we bring the expertise and passion needed 
               to turn your vision into reality.
             </p>

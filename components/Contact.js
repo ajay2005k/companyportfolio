@@ -83,7 +83,7 @@ export default function Contact() {
               Contact Us
             </h2>
             <p className="text-xl text-neutral-300 mb-8 leading-relaxed">
-              Ready to start your project? We'd love to hear about your vision 
+              Ready to start your project? We&apos;d love to hear about your vision 
               and explore how we can bring it to life together.
             </p>
             

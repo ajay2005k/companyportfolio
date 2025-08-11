@@ -99,7 +99,7 @@ export default function Work() {
             onClick={handleViewCase}
             className="bg-white text-black px-8 py-4 rounded-lg font-medium hover:bg-neutral-200 transition-colors focus:outline-none focus:ring-2 focus:ring-white/60 focus:ring-offset-2 focus:ring-offset-black"
           >
-            Let's Talk
+            Let&apos;s Talk
           </button>
         </div>
       </div>

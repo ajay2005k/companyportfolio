@@ -45,7 +45,7 @@ export default function Services() {
           </h2>
           <p className="text-xl text-neutral-300 max-w-3xl mx-auto">
             We offer comprehensive digital services to help your business succeed 
-            in today's competitive landscape.
+            in today&apos;s competitive landscape.
           </p>
         </div>
 
@@ -68,7 +68,7 @@ export default function Services() {
 
         <div className="mt-16 text-center">
           <p className="text-lg text-neutral-300 mb-8">
-            Ready to discuss your project? Let's create something amazing together.
+            Ready to discuss your project? Let&apos;s create something amazing together.
           </p>
           <button
             onClick={() => {
